@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """ FizzBuzz
-    Start decision with if (i % 3) == 0 and (i % 5) == 0:
+    Control has to first check if BOTH 3 and 5 are factors.
 """
 import sys
 
