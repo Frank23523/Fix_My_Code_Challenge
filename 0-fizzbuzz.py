@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 """ FizzBuzz
+    Control has to first check if both 3 and 5 are factors.
 """
 import sys
 
